@@ -1,0 +1,30 @@
+{
+  "name": "win-ai-bill-processing",
+  "version": "1.0.0",
+  "description": "Use windows ai api to process bill and create balance sheet",
+  "keywords": [
+    "bill",
+    "windows",
+    "ai",
+    "api",
+    "image",
+    "processing",
+    "balance",
+    "sheet"
+  ],
+  "homepage": "https://github.com/iampharikrishnan/win-ai-bill-processing#readme",
+  "bugs": {
+    "url": "https://github.com/iampharikrishnan/win-ai-bill-processing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iampharikrishnan/win-ai-bill-processing.git"
+  },
+  "license": "ISC",
+  "author": "harikrishnan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
